@@ -1,0 +1,17 @@
+{
+  "name": "plumpcss-defaults",
+  "version": "0.1.0",
+  "authors": [
+    "Jon Hurrell <jon@plumpdigital.co.uk>"
+  ],
+  "description": "Global, default settings for the plumpcss framework",
+  "main": "_settings.plump-defaults.scss",
+  "keywords": [
+    "plumpcss",
+    "oocss",
+    "css",
+    "settings"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.plumpdigital.co.uk/"
+}

@@ -1,0 +1,42 @@
+///*------------------------------------*\
+//   #PLUMP-DEFAULTS
+//\*------------------------------------*/
+
+//
+//    You should redefine inuitcss’ variables in this overrides file and
+//    include it in your project before inuit’s `settings.defaults`.
+//
+
+
+
+
+
+//
+//    High-level base settings.
+//
+$plump-base-font-size:         16px !default;
+$plump-base-line-height:       24px !default;
+$plump-base-round:             6px !default;
+
+
+
+
+
+//
+//    Namespace.
+//
+//    Would you like plumpcss’ classes to be prepended with a namespace?
+//    If so, define it here.
+//
+$plump-namespace:              null;
+
+
+
+
+
+//
+//    These variables are framework variables, sourced from variables defined
+//    above. Feel free to use these variables throughout your project, but do not
+//    modify or reassign them.
+//
+$plump-base-spacing-unit:      $plump-base-line-height;
